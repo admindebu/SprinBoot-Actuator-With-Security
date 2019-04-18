@@ -1,0 +1,5 @@
+com\techtalk\actuator\app\SpringBootActuatorApplication.class
+com\techtalk\actuator\custom\CustomEndpoint.class
+com\techtalk\actuator\service\LoginService.class
+com\techtalk\actuator\custom\CustomAppHealth.class
+com\techtalk\actuator\custom\ListEndpoints.class
